@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(156, 156, 156);
+    border: none;
+    border-radius: 20px;
+}
+.section1{
+    margin: 0 0 10px 0;
+}
+.red {
+    font-size: 25px;
+    color: red;
+    background-color: gray;
+    width: 430px;
+    height: 55px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5px 1px 0;
+    p {
+        margin-left: 15px;
+    }
+    img{
+        margin-right: 15px;
+    }
+}
+.phone img {
+    margin-right: 18px;
+}
+div {
+    font-size: 25px;
+    background-color: gray;
+    width: 250px;
+    height: 55px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5px 1px 0;
+    width: 430px;
+    p {
+        margin-left: 15px;
+    }
+    
+    img{
+        margin-right: 15px;
+    }
+}
